@@ -1,0 +1,97 @@
+<annotation>
+<folder>
+Myocardial Infarction</folder>
+<filename>
+MI(147).jpg</filename>
+<path>
+C:\Users\sricharan\Projects\DataScience\Ecg\data\Myocardial Infarction\MI(147).jpg</path>
+<source>
+<database>Unknown</database></source>
+<size>
+<width>2213</width><height>1572</height><depth>3</depth></size>
+<segmented>0</segmented>
+
+        <object>
+          <name>ST-Elevation</name>
+          <pose>Unspecified</pose>
+          <truncated>0</truncated>
+          <difficult>0</difficult>
+          <bndbox>
+            <xmin>1174.641900703125</xmin>
+            <ymin>1001.7634752890625</ymin>
+            <xmax>1625.344272886719</xmax>
+            <ymax>1124.5069178203125</ymax>
+          </bndbox>
+        </object>
+
+        
+        <object>
+          <name>ST-Elevation</name>
+          <pose>Unspecified</pose>
+          <truncated>0</truncated>
+          <difficult>0</difficult>
+          <bndbox>
+            <xmin>1695.595599138672</xmin>
+            <ymin>667.5677643984375</ymin>
+            <xmax>2078.0926284042966</xmax>
+            <ymax>843.0774716718751</ymax>
+          </bndbox>
+        </object>
+
+        
+        <object>
+          <name>ST-Depression</name>
+          <pose>Unspecified</pose>
+          <truncated>0</truncated>
+          <difficult>0</difficult>
+          <bndbox>
+            <xmin>713.0481236738281</xmin>
+            <ymin>411.84033403125</ymin>
+            <xmax>1053.9872691621094</xmax>
+            <ymax>528.7627588125</ymax>
+          </bndbox>
+        </object>
+
+        
+        <object>
+          <name>ST-Elevation</name>
+          <pose>Unspecified</pose>
+          <truncated>0</truncated>
+          <difficult>0</difficult>
+          <bndbox>
+            <xmin>1674.7960184316405</xmin>
+            <ymin>340.989882609375</ymin>
+            <xmax>2114.7622415507813</xmax>
+            <ymax>570.5457297421874</ymax>
+          </bndbox>
+        </object>
+
+        
+        <object>
+          <name>ST-Elevation</name>
+          <pose>Unspecified</pose>
+          <truncated>0</truncated>
+          <difficult>0</difficult>
+          <bndbox>
+            <xmin>1195.4049452988281</xmin>
+            <ymin>696.2290578984375</ymin>
+            <xmax>1619.311595986328</xmax>
+            <ymax>854.5324453125</ymax>
+          </bndbox>
+        </object>
+
+        
+        <object>
+          <name>ST-Depression</name>
+          <pose>Unspecified</pose>
+          <truncated>0</truncated>
+          <difficult>0</difficult>
+          <bndbox>
+            <xmin>713.0481236738281</xmin>
+            <ymin>411.84033403125</ymin>
+            <xmax>1053.9872691621094</xmax>
+            <ymax>528.7627588125</ymax>
+          </bndbox>
+        </object>
+
+        </annotation>
